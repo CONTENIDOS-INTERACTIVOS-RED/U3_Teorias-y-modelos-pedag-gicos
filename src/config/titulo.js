@@ -1,1 +1,2 @@
-module.exports = 'Carácter Epistemológico de la Pedagogía y Modelos Pedagógicos'
+module.exports =
+  'Modelo tradicional Escuela Nueva Modelo constructivista – Pedagogía dialogante'
