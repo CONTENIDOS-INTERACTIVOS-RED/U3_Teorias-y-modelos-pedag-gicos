@@ -22,7 +22,7 @@
             .content-wrapper.px-lg-4.pt-lg-4.px-xxl-5.py-xxl-5.text-start
               p.home-main-title UNIDAD {{ `${globalData.numeroUnidad}` }}
               h1.home-title.mb-4 {{ globalData.tituloUnidad }}
-              p.descripcion.mb-4 La unidad estudia el carácter epistemológico de la pedagogía y su relación con los modelos pedagógicos. Aborda la pedagogía como arte, ciencia y disciplina, su evolución histórica, y sus fundamentos teóricos. Se destacan los componentes clave de los modelos pedagógicos: concepción del aprendizaje y enseñanza, objetivos, contenidos, metodología, evaluación y relación maestro-estudiante. También se analiza la diferencia entre modelo, método y metodología. Se resalta la importancia de seleccionar modelos pedagógicos adecuados para mejorar la calidad educativa y fomentar el desarrollo integral del estudiante en contextos diversos.
+              p.descripcion.mb-4 La unidad  explora los modelos pedagógicos: Tradicional, Escuela Nueva, Constructivismo y Pedagogía Dialogante. Analiza sus fundamentos, componentes, bondades y evolución, destacando la transformación de la enseñanza desde una visión autoritaria hacia enfoques centrados en el estudiante, el diálogo, la inclusión y la construcción activa del conocimiento. Escuela Nueva resalta por su implementación exitosa en contextos rurales de Colombia. El Constructivismo y la Pedagogía Dialogante promueven la interacción social, la autonomía y la reflexión crítica. La unidad concluye valorando estos modelos como herramientas clave para innovar y mejorar la educación contemporánea.
 
               .button-container.mt-auto
                 router-link.btn-iniciar.w-100.w-md-auto(:to="{ name: 'introduccion' }")
