@@ -1,6 +1,6 @@
 export default {
   global: {
-    numeroUnidad: '2',
+    numeroUnidad: '3',
     tituloUnidad:
       'Modelo tradicional Escuela Nueva Modelo constructivista – Pedagogía dialogante',
   },
